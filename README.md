@@ -1,4 +1,4 @@
 # Git Learning
 
 
-Happy to learn something new everyday
+Happy to learn something new everyday!
